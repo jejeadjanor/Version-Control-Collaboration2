@@ -1,4 +1,3 @@
-
 Beautiful is better than ugly.
 Explicit is better than implicit.
 Flat is better than nested.
